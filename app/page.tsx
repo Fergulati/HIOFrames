@@ -17,10 +17,10 @@ const frameMetadata = getFrameMetadata({
 
 export const metadata: Metadata = {
   title: 'Hashing It Out Sensei',
-  description: 'LFG',
+  description: 'Click to listen to HIO',
   openGraph: {
     title: 'Hashing It Out Sensei',
-    description: 'LFG',
+    description: 'Click to listen to HIO',
     images: [`${NEXT_PUBLIC_URL}/park-1.png`],
   },
   other: {
