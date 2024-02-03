@@ -29,7 +29,14 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <h1>zizzamia.xyz</h1>
+    <!DOCTYPE html>
+    <html>
+      <head>
+      <meta property="fc:frame" content="vNext" />
+      <meta property="fc:frame:image" content="http://...image-question.png" />
+      <meta property="fc:frame:button:1" content="https://media.discordapp.net/attachments/1086277219749474424/1202079543272149052/snail_with_a_hat_japanese_scroll_ink_1.png?ex=65cc26d0&is=65b9b1d0&hm=0cc4d81ac64aeb1a2c4d61df51e4233862c002c11b13eed93291f6a25fcbcded&=&format=webp&quality=lossless&width=2422&height=1275" />
+      </head>
+    </html>
     </>
   );
 }
