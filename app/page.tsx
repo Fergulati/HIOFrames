@@ -32,9 +32,9 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
    <>
-      <Head>
+      <head>
       <meta http-equiv = "refresh" content = "0; url = https://press.logos.co/podcasts/hashing-it-out" />
-      </Head>
+      </head>
       <h1>"Hashing It Out Sensei"
         <meta property="fc:frame" content="vNext" />
         <meta property="fc:frame:image" content="https://media.discordapp.net/attachments/1086277219749474424/1202079543272149052/snail_with_a_hat_japanese_scroll_ink_1.png?ex=65cc26d0&is=65b9b1d0&hm=0cc4d81ac64aeb1a2c4d61df51e4233862c002c11b13eed93291f6a25fcbcded&=&format=webp&quality=lossless&width=2422&height=1275" />
