@@ -34,7 +34,7 @@ export default function Page() {
   return (
    <>
       <head>
-      <meta http-equiv = "refresh" content = "0; url = https://press.logos.co/podcasts/hashing-it-out" />
+      <meta http-equiv = "refresh" content = "0; url = https://cdn.simplecast.com/audio/b623b331-ffef-40c4-918d-b35a07ee8729/episodes/4f446272-db96-4970-a657-9cb1e1bc5fb2/audio/61852154-6e1f-4972-8722-9a52fcaaf0ae/default_tc.mp3?nocache" />
       </head>
       <h1>"Hashing It Out Sensei"
         <meta property="fc:frame" content="vNext" />
