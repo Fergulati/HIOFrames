@@ -13,7 +13,7 @@ const frameMetadata = getFrameMetadata({
     },
   ],
   image: `${SNAIL_PIC_URL}`,
-  post_url: `${SNAIL_PIC_URL}`,
+  post_url: `${NEXT_PUBLIC_URL}`,
 });
 
 export const metadata: Metadata = {
