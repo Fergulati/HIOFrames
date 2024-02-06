@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import Head from 'next/head';
 
 
-const NEXT_PUBLIC_URL = 'https://zizzamia.xyz';
+const NEXT_PUBLIC_URL = 'https://press.logos.co/podcasts/hashing-it-out';
 
 const frameMetadata = getFrameMetadata({
   buttons: [
